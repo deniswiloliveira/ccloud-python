@@ -1,0 +1,6 @@
+bootstrap.servers=<SR ENDPOINT>
+sasl.username=<SR API KEY>
+sasl.password=<SR API SECRET>
+basic.auth.credentials.source=USER_INFO
+schema.registry.basic.auth.user.info=<SR API KEY>:<SR API SECRET>
+schema.registry.url=<SR ENDPOINT>
